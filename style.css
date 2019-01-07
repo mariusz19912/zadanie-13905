@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+.kwadraty{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px;
+
+}
